@@ -5,7 +5,7 @@ A **modern, intuitive, and powerful** desktop application built with **PyQt5** t
 Perfect for assignments, document digitization, real-time scanning, and automation projects.
 
 ### Live Demo
-("\Printed-text-ocr\OCR.png")  
+![Text Scanner App](OCR.png) 
 
 
 ---
